@@ -22,7 +22,6 @@ https://open.kakao.com/o/gUvY62xb
 [잘 정리된 깃허브]
 
 # 역대 발표자들
-
 [라이노님] [라이노님 블로그] 
 [밀쿄님] [밀쿄님 블로그]
 [도미닉님] 
@@ -33,5 +32,6 @@ https://open.kakao.com/o/gUvY62xb
 [라이노님]: https://github.com/JCSooHwanCho
 [라이노님 블로그]: https://jcsoohwancho.github.io/category/RxSwift/
 [밀쿄님]: https://github.com/dp221125
-[밀쿄님 블로그]: milyo-codingstories.tistory.com/category/RxSwift
+[밀쿄님 블로그]: https://milyo-codingstories.tistory.com/category/RxSwift
 [도미닉님]: https://github.com/kiljh-me
+

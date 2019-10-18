@@ -18,10 +18,20 @@ https://open.kakao.com/o/gUvY62xb
 
 # 보고 오시면 좋은 자료들
 
-https://www.youtube.com/watch?v=w5Qmie-GbiA&t=3633s
+[곰튀김님 유튜브]
+[잘 정리된 깃허브]
 
-https://github.com/fimuxd/RxSwift
+# 역대 발표자들
 
-https://jcsoohwancho.github.io/category/RxSwift/
+[라이노님] [라이노님 블로그] 
+[밀쿄님] [밀쿄님 블로그]
+[도미닉님] 
 
-https://milyo-codingstories.tistory.com/category/RxSwift
+
+[곰튀김님 유튜브]: https://www.youtube.com/watch?v=w5Qmie-GbiA&t=3633s
+[잘 정리된 깃허브]: https://github.com/fimuxd/RxSwift
+[라이노님]: https://github.com/JCSooHwanCho
+[라이노님 블로그]: https://jcsoohwancho.github.io/category/RxSwift/
+[밀쿄님]: https://github.com/dp221125
+[밀쿄님 블로그]: milyo-codingstories.tistory.com/category/RxSwift
+[도미닉님]: https://github.com/kiljh-me

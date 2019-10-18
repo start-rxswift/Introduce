@@ -16,7 +16,7 @@ https://open.kakao.com/o/gUvY62xb
 왜? : 혼자 시작하고 공부하기 힘든 RxSwift 에 조금이라도 **쉽고** **함께** 접근하기 위해서
 
 
-# 저희와 함께 공부할 때 보고 오시며 좋은 자료들
+# 보고 오시면 좋은 자료들
 
 https://www.youtube.com/watch?v=w5Qmie-GbiA&t=3633s
 

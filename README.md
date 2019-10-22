@@ -38,5 +38,5 @@ https://open.kakao.com/o/gUvY62xb
 [밀쿄님]: https://github.com/dp221125
 [밀쿄님 블로그]: https://milyo-codingstories.tistory.com/category/RxSwift
 [도미닉님]: https://github.com/kiljh-me
-[RxSwift 카카오톡]: https://github.com/start-rxswift/Introduce
+[RxSwift 카카오톡]: https://open.kakao.com/o/gl2YZjq
 

@@ -28,6 +28,8 @@ https://open.kakao.com/o/gUvY62xb
 - [밀쿄님] 
 - [도미닉님] 
 
+# 추천 커뮤니티
+- [RxSwift 카카오톡]
 
 [곰튀김님 유튜브]: https://www.youtube.com/watch?v=w5Qmie-GbiA&t=3633s
 [잘 정리된 깃허브]: https://github.com/fimuxd/RxSwift
@@ -36,4 +38,5 @@ https://open.kakao.com/o/gUvY62xb
 [밀쿄님]: https://github.com/dp221125
 [밀쿄님 블로그]: https://milyo-codingstories.tistory.com/category/RxSwift
 [도미닉님]: https://github.com/kiljh-me
+[RxSwift 카카오톡]: https://github.com/start-rxswift/Introduce
 

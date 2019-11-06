@@ -41,6 +41,6 @@ https://open.kakao.com/o/gUvY62xb
 [밀쿄님 블로그]: https://milyo-codingstories.tistory.com/category/RxSwift
 [도미닉님]: https://github.com/kiljh-me
 [RxSwift 카카오톡]: https://open.kakao.com/o/gl2YZjq
-[지누맨님] : https://github.com/jinuman
-[아신님] : https://github.com/kimtaesu
+[지누맨님]: https://github.com/jinuman
+[아신님]: https://github.com/kimtaesu
 

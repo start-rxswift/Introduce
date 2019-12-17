@@ -17,7 +17,7 @@ RxSwift 에 대해 돌아가면서 발표하고 공유하는 스터디 Start! Rx
 왜? : 혼자 시작하고 공부하기 힘든 RxSwift 에 조금이라도 **쉽고** **함께** 접근하기 위해서
 
 # 진행 중인 스터디
-- [MartinTodorov's RxSwift 채 스터디](https://github.com/start-rxswift/MartinTodorovBookStudy
+- [MartinTodorov's RxSwift 책 스터디](https://github.com/start-rxswift/MartinTodorovBookStudy)
 
 # 보고 오시면 좋은 자료들
 - [곰튀김님 유튜브]

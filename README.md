@@ -5,7 +5,7 @@ RxSwift 에 대해 돌아가면서 발표하고 공유하는 스터디 Start! Rx
 https://open.kakao.com/o/gUvY62xb
 
 
-언제? : 매주 수요일 오후 9시에
+언제? : 매주 화요일 오후 9시에
 
 어디서? : 각자 편한 장소에서 단체카톡방에 Zoom 화상(음성) 회의 URL 에 접속해서
 

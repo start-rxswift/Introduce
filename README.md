@@ -1,13 +1,14 @@
 # 모임 소개
 
-RxSwift 에 대해 돌아가면서 발표하고 공유하는 스터디 Start! RxSwift 에서 같이 공부할 개발자분들 모집합니다. 저희와 같이 RxSwift 시작하시고 공부합시다.
+RxSwift 에 대해 돌아가면서 발표하고 공유하는 스터디 Start! RxSwift 에서 같이 공부할 개발자분들 모집합니다. 
+저희와 같이 RxSwift 시작하시고 공부합시다.
 
-[오픈채팅방 입장](https://open.kakao.com/o/gUvY62xb)
+[오픈채팅방](https://open.kakao.com/o/gUvY62xb)
 
 
 언제? : 매주 화요일 오후 9시에
 
-어디서? : 각자 편한 장소에서 단체카톡방에 Zoom 화상(음성) 회의 URL 에 접속해서
+어디서? : 각자 편한 장소에서 [오픈채팅방]에 공유되는 Zoom 회의에 참여해서
 
 무엇을? : RxSwift 에 대해서
 
@@ -31,8 +32,6 @@ RxSwift 에 대해 돌아가면서 발표하고 공유하는 스터디 Start! Rx
 - [아신님] 
 - [지누맨님] 
 
-# 큰 방
-- [SwiftUI & Combine + RxSwift 개그]
 
 [곰튀김님 유튜브]: https://www.youtube.com/watch?v=w5Qmie-GbiA&t=3633s
 [잘 정리된 깃허브]: https://github.com/fimuxd/RxSwift

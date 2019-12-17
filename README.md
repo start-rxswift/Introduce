@@ -2,7 +2,7 @@
 
 RxSwift 에 대해 돌아가면서 발표하고 공유하는 스터디 Start! RxSwift 에서 같이 공부할 개발자분들 모집합니다. 저희와 같이 RxSwift 시작하시고 공부합시다.
 
-https://open.kakao.com/o/gUvY62xb
+[오픈채팅방 입장](https://open.kakao.com/o/gUvY62xb)
 
 
 언제? : 매주 화요일 오후 9시에
@@ -15,9 +15,10 @@ https://open.kakao.com/o/gUvY62xb
 
 왜? : 혼자 시작하고 공부하기 힘든 RxSwift 에 조금이라도 **쉽고** **함께** 접근하기 위해서
 
+# 진행 중인 스터디
+- [MartinTodorov's RxSwift 채 스터디](https://github.com/start-rxswift/MartinTodorovBookStudy
 
 # 보고 오시면 좋은 자료들
-
 - [곰튀김님 유튜브]
 - [잘 정리된 깃허브]
 - [라이노님 블로그]
@@ -30,8 +31,8 @@ https://open.kakao.com/o/gUvY62xb
 - [아신님] 
 - [지누맨님] 
 
-# 추천 커뮤니티
-- [RxSwift 카카오톡]
+# 큰 방
+- [SwiftUI & Combine + RxSwift 개그]
 
 [곰튀김님 유튜브]: https://www.youtube.com/watch?v=w5Qmie-GbiA&t=3633s
 [잘 정리된 깃허브]: https://github.com/fimuxd/RxSwift
@@ -40,7 +41,7 @@ https://open.kakao.com/o/gUvY62xb
 [밀쿄님]: https://github.com/dp221125
 [밀쿄님 블로그]: https://milyo-codingstories.tistory.com/category/RxSwift
 [도미닉님]: https://github.com/AppleCEO
-[RxSwift 카카오톡]: https://open.kakao.com/o/gl2YZjq
+[SwiftUI & Combine + RxSwift 개그]: https://open.kakao.com/o/gl2YZjq
 [지누맨님]: https://github.com/jinuman
 [아신님]: https://github.com/kimtaesu
 

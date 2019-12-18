@@ -3,7 +3,7 @@
 RxSwift 에 대해 돌아가면서 발표하고 공유하는 스터디 Start! RxSwift 에서 같이 공부할 개발자분들 모집합니다. 
 저희와 같이 RxSwift 시작하시고 공부합시다.
 
-[오픈채팅방](https://open.kakao.com/o/gUvY62xb)
+[오픈채팅방]
 
 
 언제? : 매주 화요일 오후 9시에
@@ -43,4 +43,4 @@ RxSwift 에 대해 돌아가면서 발표하고 공유하는 스터디 Start! Rx
 [SwiftUI & Combine + RxSwift 개그]: https://open.kakao.com/o/gl2YZjq
 [지누맨님]: https://github.com/jinuman
 [아신님]: https://github.com/kimtaesu
-
+[오픈채팅방]: https://open.kakao.com/o/gUvY62xb
